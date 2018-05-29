@@ -1,0 +1,10 @@
+D:\Visual programming\My App\My App\bin\Debug\My App.exe.config
+D:\Visual programming\My App\My App\bin\Debug\My App.exe
+D:\Visual programming\My App\My App\bin\Debug\My App.pdb
+D:\Visual programming\My App\My App\obj\Debug\My App.csprojResolveAssemblyReference.cache
+D:\Visual programming\My App\My App\obj\Debug\My_App.App.resources
+D:\Visual programming\My App\My App\obj\Debug\My_App.Properties.Resources.resources
+D:\Visual programming\My App\My App\obj\Debug\My App.csproj.GenerateResource.cache
+D:\Visual programming\My App\My App\obj\Debug\My App.csproj.CoreCompileInputs.cache
+D:\Visual programming\My App\My App\obj\Debug\My App.exe
+D:\Visual programming\My App\My App\obj\Debug\My App.pdb
